@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#F5F5F5">
+
+    <SearchView
+        android:id="@+id/search_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:queryHint="@string/search_hint"
+        android:iconifiedByDefault="false"/>
+
+    <TextView
+        android:id="@+id/tv_empty_state"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Search for a faculty or department..."
+        android:textSize="16sp"
+        android:textColor="#7F8C8D"
+        android:gravity="center"
+        android:padding="32dp"
+        android:visibility="visible"/>
+
+    <ListView
+        android:id="@+id/list_view_results"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="8dp"
+        android:divider="#DDDDDD"
+        android:dividerHeight="1dp"
+        android:visibility="gone"/>
+
+</LinearLayout>

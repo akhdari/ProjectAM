@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">مرشد جامعة بومرداس</string>
+    <string name="university_name">جامعة محمد بوقرة ببومرداس</string>
+
+    <!-- Main Screen -->
+    <string name="browse_faculties">استعراض الكليات</string>
+    <string name="search">بحث</string>
+    <string name="about">حول التطبيق</string>
+    <string name="about_title">حول مرشد جامعة بومرداس</string>
+
+    <!-- Faculty Names -->
+    <string name="faculty_science">كلية العلوم</string>
+    <string name="faculty_engineering">كلية علوم الهندسة</string>
+    <string name="faculty_hydrocarbons">كلية الهيدروكربونات والكيمياء</string>
+    <string name="faculty_economics">كلية العلوم الاقتصادية والتجارية وعلوم التسيير</string>
+    <string name="faculty_law">كلية الحقوق والعلوم السياسية</string>
+    <string name="faculty_letters">كلية الآداب واللغات</string>
+
+    <!-- Department Names - Faculty of Science -->
+    <string name="dept_math">الرياضيات</string>
+    <string name="dept_physics">الفيزياء</string>
+    <string name="dept_chemistry">الكيمياء</string>
+    <string name="dept_computer_science">علوم الإعلام الآلي</string>
+    <string name="dept_biology">علوم الطبيعة والحياة</string>
+    <string name="dept_languages">اللغات الأجنبية</string>
+
+    <!-- Department Names - Faculty of Engineering -->
+    <string name="dept_industrial_engineering">هندسة العمليات الصناعية</string>
+    <string name="dept_food_technology">تكنولوجيا الأغذية</string>
+    <string name="dept_environmental_engineering">هندسة البيئة</string>
+    <string name="dept_mechanical_engineering">الهندسة الميكانيكية</string>
+    <string name="dept_energy">الهندسة الطاقوية</string>
+    <string name="dept_industrial_maintenance">الصيانة الصناعية</string>
+    <string name="dept_materials_engineering">هندسة المواد</string>
+    <string name="dept_civil_engineering">الهندسة المدنية</string>
+
+    <!-- Department Names - Faculty of Hydrocarbons -->
+    <string name="dept_geophysics">هندسة مقاومة الزلازل والجيوفيزياء</string>
+    <string name="dept_mining">المكامن المنجمية والبترولية</string>
+    <string name="dept_transport">نقل وتجهيزات الهيدروكربورات</string>
+    <string name="dept_chemical_process">هندسة العمليات الكيميائية والصيدلانية</string>
+    <string name="dept_automation">أتمتة العمليات والكهربة</string>
+    <string name="dept_hydrocarbon_economics">اقتصاد وتسويق المحروقات</string>
+
+    <!-- Department Names - Faculty of Economics -->
+    <string name="dept_management">علوم التسيير</string>
+    <string name="dept_commercial_sciences">العلوم التجارية</string>
+    <string name="dept_economics">العلوم الاقتصادية</string>
+
+    <!-- Department Names - Faculty of Law -->
+    <string name="dept_public_law">الحقوق العامة</string>
+    <string name="dept_private_law">الحقوق الخاصة</string>
+    <string name="dept_political_science">العلوم السياسية</string>
+
+    <!-- Department Names - Faculty of Letters and Languages -->
+    <string name="dept_arabic">اللغة العربية وآدابها</string>
+    <string name="dept_french">اللغة الفرنسية</string>
+    <string name="dept_english">اللغة الإنجليزية</string>
+
+    <!-- Buttons -->
+    <string name="call">اتصال</string>
+    <string name="sms">رسالة</string>
+    <string name="email">بريد إلكتروني</string>
+    <string name="map">خريطة</string>
+
+    <!-- Search -->
+    <string name="search_hint">ابحث عن كلية أو قسم...</string>
+    <string name="faculty_prefix">كلية</string>
+    <string name="department_prefix">قسم</string>
+
+    <!-- University Presentation - Arabic -->
+    <string name="university_presentation">تأسست جامعة محمد بوقرة ببومرداس سنة 1998 بموجب المرسوم التنفيذي رقم 98-189، وقد جاءت نتيجة دمج ستة معاهد وطنية أنشئت بين ستينيات وثمانينيات القرن الماضي، وهي: INH وINELEC وINGM وINMC وINIM وINIA. وترتكز الجامعة على إرث أكاديمي يعود إلى مؤسسات تم تطويرها منذ ثمانينيات القرن الماضي (المدرسة الوطنية المتعددة التقنيات سابقا)، وتستقبل اليوم أكثر من 30,000 طالب ويعمل بها أكثر من 1,200 أستاذ. وتتمثل مهمتها في تقديم تعليم عالي الجودة، وتعزيز البحث العلمي، والمساهمة في التنمية الاقتصادية والتكنولوجية في الجزائر.</string>
+
+    <!-- About Message -->
+    <string name="about_message">الإصدار 1.0\n\nمرشد جامعة بومرداس هو دليل رقمي لجامعة محمد بوقرة ببومرداس.\n\nتطوير: طلاب السنة الثالثة إعلام آلي\nالوحدة: AM\n2025-2026</string>
+</resources>

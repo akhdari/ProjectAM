@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UMBB MobGuide</string>
+    <string name="university_name">MHamed Bougara University of Boumerdes</string>
+
+    <!-- Main Screen -->
+    <string name="browse_faculties">Browse Faculties</string>
+    <string name="search">Search</string>
+    <string name="about">About</string>
+    <string name="about_title">About UMBB MobGuide</string>
+
+    <!-- Faculty Names -->
+    <string name="faculty_science">Faculty of Science</string>
+    <string name="faculty_engineering">Faculty of Engineering Science</string>
+    <string name="faculty_hydrocarbons">Faculty of Hydrocarbons and Chemistry</string>
+    <string name="faculty_economics">Faculty of Economics, Commerce and Management</string>
+    <string name="faculty_law">Faculty of Law and Political Sciences</string>
+    <string name="faculty_letters">Faculty of Letters and Languages</string>
+
+    <!-- Departments -->
+    <string name="dept_math">Mathematics</string>
+    <string name="dept_physics">Physics</string>
+    <string name="dept_chemistry">Chemistry</string>
+    <string name="dept_computer_science">Computer Science</string>
+    <string name="dept_biology">Biology</string>
+    <string name="dept_languages">Foreign Languages</string>
+    <string name="dept_arabic">Arabic Letters</string>
+    <string name="dept_french">French</string>
+    <string name="dept_english">English</string>
+    <string name="dept_public_law">Public Law</string>
+    <string name="dept_private_law">Private Law</string>
+    <string name="dept_political_science">Political Science</string>
+    <string name="dept_industrial_engineering">Industrial Process Engineering</string>
+    <string name="dept_food_technology">Food Technology</string>
+    <string name="dept_environmental_engineering">Environmental Engineering</string>
+    <string name="dept_mechanical_engineering">Mechanical Engineering</string>
+    <string name="dept_energy">Energy Engineering</string>
+    <string name="dept_industrial_maintenance">Industrial Maintenance</string>
+    <string name="dept_materials_engineering">Materials Engineering</string>
+    <string name="dept_civil_engineering">Civil Engineering</string>
+    <string name="dept_management">Management Sciences</string>
+    <string name="dept_commercial_sciences">Commercial Sciences</string>
+    <string name="dept_economics">Economic Sciences</string>
+    <string name="dept_geophysics">Geophysics and Seismic Engineering</string>
+    <string name="dept_mining">Mining and Petroleum Deposits</string>
+    <string name="dept_transport">Hydrocarbons Transport and Equipment</string>
+    <string name="dept_chemical_process">Chemical and Pharmaceutical Process Engineering</string>
+    <string name="dept_automation">Process Automation and Electrification</string>
+    <string name="dept_hydrocarbon_economics">Hydrocarbons Economics and Marketing</string>
+
+    <!-- Buttons -->
+    <string name="call">Call</string>
+    <string name="sms">SMS</string>
+    <string name="email">Email</string>
+    <string name="map">Map</string>
+
+    <!-- Search -->
+    <string name="search_hint">Search faculty or department...</string>
+    <string name="faculty_prefix">Faculty</string>
+    <string name="department_prefix">Department</string>
+
+    <!-- University Presentation - NO SPECIAL CHARACTERS -->
+    <string name="university_presentation">MHamed Bougara University of Boumerdes was established in 1998 by Executive Decree No. 98-189. It resulted from the merger of six national institutes founded between the 1960s and 1980s: INH, INELEC, INGM, INMC, INIM, and INIA. Building on an academic heritage that dates back to institutions developed in the 1980s (former ENP), the university currently hosts more than 30,000 students and employs over 1,200 academic staff members. Its mission is to provide high-quality education, promote scientific research, and contribute to Algerias economic and technological development.</string>
+
+    <!-- About Message - NO SPECIAL CHARACTERS -->
+    <string name="about_message">Version 1.0\n\nUMBB MobGuide is a digital guide for MHamed Bougara University of Boumerdes.\n\nDeveloped by L3-SI Students\nModule: AM\n2025-2026</string>
+</resources>
