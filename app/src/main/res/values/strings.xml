@@ -60,8 +60,8 @@
     <string name="department_prefix">Department</string>
 
     <!-- University Presentation - NO SPECIAL CHARACTERS -->
-    <string name="university_presentation">MHamed Bougara University of Boumerdes was established in 1998 by Executive Decree No. 98-189. It resulted from the merger of six national institutes founded between the 1960s and 1980s: INH, INELEC, INGM, INMC, INIM, and INIA. Building on an academic heritage that dates back to institutions developed in the 1980s (former ENP), the university currently hosts more than 30,000 students and employs over 1,200 academic staff members. Its mission is to provide high-quality education, promote scientific research, and contribute to Algerias economic and technological development.</string>
+    <string name="university_presentation">MHamed Bougara University of Boumerdes was established in 1998 by Executive Decree No. 98-189. It resulted from the merger of six national institutes founded between the 1960s and 1980s: INH, INELEC, INGM, INMC, INIM, and INIA. Building on an academic heritage that dates back to institutions developed in the 1980s (former ENP), the university currently hosts more than 30,000 students and employs over 1,200 academic staff members. Its mission is to provide high-quality education, promote scientific research, and contribute to Algerias economic and technological development./n By site: https://www.univ-boumerdes.dz</string>
 
     <!-- About Message - NO SPECIAL CHARACTERS -->
-    <string name="about_message">Version 1.0\n\nUMBB MobGuide is a digital guide for MHamed Bougara University of Boumerdes.\n\nDeveloped by L3-SI Students\nModule: AM\n2025-2026</string>
+    <string name="about_message">Version 1.0\n\nUMBB MobGuide is a digital guide for MHamed Bougara University of Boumerdes.\n\nDeveloped by L3-SI Students T.I .\nModule: AM\n2025-2026</string>
 </resources>

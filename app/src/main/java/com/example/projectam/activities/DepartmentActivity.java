@@ -1,4 +1,4 @@
-package com.example.projectam.activities;
+ package com.example.projectam.activities;
 
 import android.content.Intent;
 import android.content.res.Configuration;

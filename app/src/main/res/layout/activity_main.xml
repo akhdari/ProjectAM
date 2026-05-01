@@ -3,7 +3,8 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#F5F5F5">
+    android:background="#F5F5F5"
+    android:paddingTop="80dp">
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -34,12 +35,10 @@
                 android:textSize="18sp"
                 android:textStyle="bold"
                 android:textColor="#2C3E50"
-                android:layout_marginTop="8dp"
-                android:gravity="center"/>
-
+                android:layout_marginTop="8dp" />
         </LinearLayout>
 
-        <!-- University Information Card - FIXED CardView -->
+        <!-- University Information Card -->
         <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -66,6 +65,7 @@
                     android:id="@+id/tv_university_info"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
+                    android:text="@string/university_presentation"
                     android:textSize="14sp"
                     android:textColor="#34495E"
                     android:lineSpacingExtra="4dp"/>
